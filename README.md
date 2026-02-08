@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Bug Fixing Projects" width="1200">
+  <img src="https://github.com/anshkunj/Bug-fixing-projects/blob/0f2c9f18946a8ffc34c39d509f1aed0f0c07429a/1770575190302.png" alt="Bug Fixing Projects" width="1200">
 </p>
 
 <h1 align="center">Bug Fixing Projects</h1>
