@@ -1,2 +1,14 @@
-# Bug-fixing-projects
-A portfolio showcasing Python bug fixing and debugging skills.  Includes projects covering syntax errors, logic errors, runtime exceptions, exception handling, and algorithm debugging.  Each project contains broken code and its fixed version to demonstrate practical problem-solving and code review abilities.
+# Python Bug Fixing & Debugging Portfolio
+
+This repository demonstrates practical skills in debugging, fixing, and improving Python code. Each project contains broken code files and their corrected versions.
+
+The portfolio covers:
+- Syntax errors
+- Logic errors
+- Runtime errors
+- Exception handling
+- Algorithm debugging
+
+Every project includes clear explanations and before/after code examples to showcase attention to detail and problem-solving skills.
+
+This portfolio is aimed at clients or recruiters looking for someone who can read, understand, and fix code efficiently.
