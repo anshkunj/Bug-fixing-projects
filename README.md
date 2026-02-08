@@ -1,4 +1,4 @@
-# Python Bug Fixing & Debugging Portfolio
+# Python Bug Fixing & Debugging Projects
 
 This repository showcases practical Python debugging and bug-fixing skills through a series of structured projects.  
 It is designed to demonstrate the ability to identify, analyze, and correct broken code in real-world scenarios, making it ideal for clients, recruiters, or anyone seeking Python development expertise.
