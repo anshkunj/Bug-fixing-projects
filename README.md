@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bug Fixing Projects</h1>
-<p align="center"></p>
+<p align="center">Turning Python errors into solutions 🐞➡️✅</p>
 
 # Python Bug Fixing & Debugging Projects
 
