@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="" alt="Bug Fixing Projects" width="1200">
+</p>
+
+<h1 align="center">Bug Fixing Projects</h1>
+<p align="center"></p>
+
 # Python Bug Fixing & Debugging Projects
 
 This repository showcases practical Python debugging and bug-fixing skills through a series of structured projects.  
