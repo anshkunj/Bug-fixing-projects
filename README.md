@@ -65,7 +65,7 @@ git clone https://github.com/anshkunj/Bug-fixing-projects.git
 ---
 
 ## ⚡ Recommended Portfolio Usage
-- Include screenshots of **errors vs fixed outputs** for Fiverr portfolio  
+- Include screenshots of **errors vs fixed outputs** for portfolio  
 - Highlight 2–3 strongest projects when promoting to clients:  
   - Algorithm Debugging  
   - Runtime Errors  
