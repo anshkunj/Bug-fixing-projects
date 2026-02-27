@@ -60,7 +60,7 @@ git clone https://github.com/anshkunj/Bug-fixing-projects.git
 ## 🎯 Purpose of This Repository
 - Showcase **real debugging and problem-solving skills** in Python  
 - Demonstrate ability to fix broken code in multiple scenarios  
-- Serve as a **portfolio for Fiverr clients or recruiters** looking for Python developers
+- Serve as a **portfolio for clients or recruiters** looking for Python developers
 
 ---
 
